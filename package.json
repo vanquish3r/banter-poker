@@ -1,0 +1,15 @@
+{
+  "name": "server",
+  "version": "0.0.1",
+  "description": "-",
+  "main": "server.js",
+  "repository": "-",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "@encharm/cws": "^4.3.0",
+    "pokersolver": "^2.1.4"
+  }
+}
